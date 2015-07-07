@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+        <title>Rachel's About Me</title>
+        <link rel="stylesheet" type="text/css" href="aboutme.css">
+	</head>
+	<body>
+		<h2>Introduction</h2>
+		<p>I’m a Singer/Songwriter and tech enthusiast from New York City. I've been a touring musician for several years and would like to try something new... </p>
+
+		<p>I love championing a fellow artist or worthy cause, and there's no better place to spread the word than online... So I'd like to leverage that passion for cheering others into a career in Social Media Marketing and Analytics.</p>
+
+		<p>Music is and always will be super important to me, and being a great musician requires a balance of both creative and analytical thinking. I think that mindset has served me well in music, and in marketing. </p>
+
+		<h2>Where I’m From</h2>
+
+		<p>I’m one of those unicorns that's actually from New York City; I've lived in 4 of the 5 boroughs. I've also lived in Florence, Italy; Montreal, Quebec; and Los Angeles, CA and performed on 5 continents (North America, Europe, Asia, Africa, and Australia).</p>
+
+		<p>After all that globetrotting I’d love to put down roots in Los Angeles, my second home.</p>
+
+		<h2>More About Me
+		<h3>What are your favorite hobbies?</h3>
+		<p>In addition to music (which I don't consider a hobby!), I love cooking, dodgeball, poker, Dr. Who, most things involving hello kitty, and my dog. And anything that has to do with dogs really.</p>
+		<h3>What’s your dream job?</h3>
+		<p>I’d love to work from home as a freelance Social Media consultant by day, allowing me the freedom to be a rockstar by night!</p>
+		<h3>What’s your background?</h3>
+		<p>I’ve been coding since I was 10 years old, singing since I was 4. I've focused on music for the past 10 years and while being my own band and brand manager I developed a fascination with Social Media and decided to up my coding skillset so I can dive into Analytics.</p>
+		<h3>What music have you been listening to lately?</h3>
+		<p>Well I do have a kick-ass EP <a href="http://rachelzevita.bandcamp.com">("The Echo Sessions")</a> that you can listen to on <a href="http://rachelzevita.bandcamp.com">bandcamp...</a></p>
+	</body>
+</html>
